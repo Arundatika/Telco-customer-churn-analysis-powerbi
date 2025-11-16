@@ -91,7 +91,8 @@ The dashboard highlights customer behavior patterns across contract types, tenur
 
 ## 🔄 Dataset Info
 Dataset: Telco Customer Churn Dataset  
-- No personally identifiable information is included  
+- Data Source: Kaggle
+- No personally identifiable information is included
 - Used for learning & analytics portfolio purposes
 
 ---
